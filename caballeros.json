@@ -1,4 +1,5 @@
-[
+{
+    caballeros:[
     {   "id":1,
         "imagen":"./imagenes/perfHombre10.jpg",
         "nombre":"Cinnamon Men",
@@ -36,3 +37,4 @@
         "precio":6.500
     }
    ]
+}
