@@ -4,37 +4,37 @@
         "imagen":"https://ro-garzon.github.io/imagenes/perfHombre10.jpg",
         "nombre":"Cinnamon Men",
         "descripcion":"Con un sutil toque de canela que aporta masculinidad y confianza, ideal para hombres arriesgados",
-        "precio":10.500
+        "precio":"10.500"
     },
     {   "id":2,
         "imagen":"https://ro-garzon.github.io/imagenes/perfHombre3.jpg",
         "nombre":"Temptation",
         "descripcion":"Con un audaz acorde amaderado que inspira plenitud y serenidad al hombre moderno.",
-        "precio":12.300
+        "precio":"12.300"
     },
     {   "id":3,
         "imagen":"https://ro-garzon.github.io/imagenes/perfHombre2.jpg",
         "nombre":"Sunset Cool Water",
         "descripcion":"Una fragancia fresca y masculina para un atardecer de ensueño",
-        "precio":9.800
+        "precio":"9.800"
     },
     {   "id":4,
         "imagen":"https://ro-garzon.github.io/imagenes/perfhombre1.jpg",
         "nombre":"Michelangelo",
         "descripcion":"Ideal para hombres extrovertidos. Notas de salida: salvia, geranio y pepino",
-        "precio":17.900
+        "precio":"7.900"
     },
     {   "id":5,
         "imagen":"https://ro-garzon.github.io/imagenes/perfhombre5.jpg",
         "nombre":"Wonderwall",
         "descripcion":"Con deliciosas notas de corazón provenientes del almizcle, el cilantro y la alcaravea, combinadas con notas de fondo del tabaco y la bergamota",
-        "precio":13.400
+        "precio":"13.400"
     },
     {   "id":6,
         "imagen":"https://ro-garzon.github.io/imagenes/perfhombre9.jpg",
         "nombre":"Rennaisance",
         "descripcion":"Una fragancia creada para conquistar e inspirar al hombre moderno. Sus notas de fondo se componen de almizcle, musgo de roble y cedro",
-        "precio":6.500
+        "precio":"6.500"
     }
    ]
 }
