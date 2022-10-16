@@ -19,19 +19,19 @@
         "precio":9.800
     },
     {   "id":4,
-        "imagen":"https://ro-garzon.github.io/imagenes/perf hombre1.jpg",
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre1.jpg",
         "nombre":"Michelangelo",
         "descripcion":"Ideal para hombres extrovertidos. Notas de salida: salvia, geranio y pepino",
         "precio":17.900
     },
     {   "id":5,
-        "imagen":"https://ro-garzon.github.io/imagenes/perf hombre5.jpg",
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre5.jpg",
         "nombre":"Wonderwall",
         "descripcion":"Con deliciosas notas de corazón provenientes del almizcle, el cilantro y la alcaravea, combinadas con notas de fondo del tabaco y la bergamota",
         "precio":13.400
     },
     {   "id":6,
-        "imagen":"https://ro-garzon.github.io/imagenes/perf hombre9.jpg",
+        "imagen":"https://ro-garzon.github.io/imagenes/perfhombre9.jpg",
         "nombre":"Rennaisance",
         "descripcion":"Una fragancia creada para conquistar e inspirar al hombre moderno. Sus notas de fondo se componen de almizcle, musgo de roble y cedro",
         "precio":6.500
